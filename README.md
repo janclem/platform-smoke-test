@@ -1,2 +1,8 @@
 # platform-smoke-test
+
 Throwaway project that exercises the agent-platform template and policy
+
+Coding agents should read [AGENTS.md](AGENTS.md).
+
+Created from the [agent-platform](https://github.com/janclem/agent-platform) template. Shared
+files (CI workflows, agent skills, agent guide) update with `copier update`.
